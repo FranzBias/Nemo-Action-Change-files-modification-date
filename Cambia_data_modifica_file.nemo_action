@@ -1,0 +1,8 @@
+[Nemo Action]
+Name=Cambia data di modifica
+Comment=Modifica gli attributi della data di modifica di uno o più file.
+Exec=bash -c 'exec "$HOME/.local/share/nemo/actions/Cambia_data_modifica_file.sh" "$@"' dummy %F
+Icon-Name=emblem-system
+Selection=any
+Extensions=any;
+Active=true
