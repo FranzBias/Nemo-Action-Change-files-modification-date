@@ -25,7 +25,7 @@ Questa Action è composta da due file:
 ### Procedimento:
 
 Questi due file, per far si che la Action possa funzionare, devono essere messi **<ins>entrambi</ins>** nella cartella `.local/share/nemo/actions` (come per tutte le action di Nemo).
-Dopodiché dovrete aprire questa cartella nel vostro terminale -solitamente, quando in Nemo vi trovate in tale cartella, facendo click in una parte vuota di essa con il tasto destro e scegliendo `Apri nel terminale`, oppure aprendo il terminale (CTRL+ALT+T) e inviando il comando `cd $HOME/.local/share/nemo/actions`- e rendete eseguibile il file `Cambia_data_modifica_file.sh` inviando il comando ´chmod +x Cambia_data_modifica_file.sh´.
+Dopodiché dovrete aprire questa cartella nel vostro terminale -solitamente, quando in Nemo vi trovate in tale cartella, facendo click in una parte vuota di essa con il tasto destro e scegliendo `Apri nel terminale`, oppure aprendo il terminale (CTRL+ALT+T) e inviando il comando `cd $HOME/.local/share/nemo/actions`- e rendete eseguibile il file `Cambia_data_modifica_file.sh` inviando il comando `chmod +x Cambia_data_modifica_file.sh`.
 
 Una volta che si è fatto questo, bisogna:
 
