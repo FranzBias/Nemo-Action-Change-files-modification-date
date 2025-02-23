@@ -1,0 +1,22 @@
+[Nemo Action]
+Name=Cambia data di modifica
+Comment=Modifica gli attributi della data di modifica di uno o più file selezionati.
+Exec=bash -c 'exec "$HOME/.local/share/nemo/actions/Change-files-modification-date.sh" "$@"' dummy %F
+Icon-Name=emblem-system
+Selection=any
+Extensions=any;
+Active=true
+
+Name[_it]=Cambia data di modifica
+Name[_de]=Änderungsdatum ändern
+Name[_en_GB]=Change file modification date
+Name[_fr]=Modifier la date de modification
+Name[_es]=Cambiar la fecha de modificación
+Name[_pt]=Alterar a data de modificação
+
+Comment[_it]=Cambia gli attributi della data di modifica di uno o più file selezionati.
+Comment[_de]=Ändert das Änderungsdatum einer oder mehrerer ausgewählter Dateien.
+Comment[_en_GB]=Change the modification date attributes of one or more selected files.
+Comment[_fr]=Modifie la date de modification d'un ou plusieurs fichiers sélectionnés.
+Comment[_es]=Cambia los atributos de la fecha de modificación de uno o más archivos seleccionados.
+Comment[_pt]=Altera os atributos da data de modificação de um ou mais arquivos selecionados.
