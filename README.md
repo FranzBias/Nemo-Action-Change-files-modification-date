@@ -8,6 +8,13 @@ Salve a tutti, questo è il mio primo progetto su **GitHub**... ci ho messo tutt
 
 Questa è una **Action** per il file manager **Nemo**, software libero e open-source e file manager ufficiale dell'**ambiente desktop Cinnamon**, per modificare con un click destro **la data di modifica di uno o più file** selezionati con il mouse.
 
+### Dipendenze della Action
+
+Per far funzionare correttamente lo script, servono alcune dipendenze:
+
+* `zenity` - Per le finestre di dialogo. Se non l'avete già installato si può fare con: `sudo apt install zenity`;
+* `coreutils` - Contiene touch per modificare la data. Se non l'avete già installato si può fare con: `sudo apt install coreutils`
+
 ### Quali file compongono la Action?
 
 Questa Action è composta da due file:
