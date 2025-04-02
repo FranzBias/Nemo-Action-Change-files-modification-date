@@ -76,6 +76,15 @@ Best regards and all the best to everyone,
 
 @FranzBias (Francesco)
 
+## 📄 License
+
+MIT – do whatever you want, just don't remove my name 😉
+
+## ✍️ Author
+
+Made with ❤️ by Franz Bias (Francesco Bianchi)  
+[https://www.bybias.com](https://www.bybias.com)
+
 ---
 
 <a id="italian"></a>Traduzione in italiano (Italian translation):
@@ -157,4 +166,12 @@ Un saluto e tante buone cose a tutti,
 
 @FranzBias (Francesco)
 
+## 📄 Licenza
+
+MIT - fate quello che volete, basta che non rimuoviate il mio nome 😉
+
+## ✍️ Autore
+
+Realizzato con ❤️ da Franz Bias (Francesco Bianchi)  
+[https://www.bybias.com](https://www.bybias.com)
 ---
