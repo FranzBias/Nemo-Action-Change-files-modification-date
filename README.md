@@ -3,7 +3,7 @@
 ![Python](https://img.shields.io/badge/python-3.10%2B-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Platform](https://img.shields.io/badge/platform-Linux%20%7C%20Mint-informational)
-![Author](https://img.shields.io/badge/made%20with-%E2%9D%A4%EF%B8%8F%20by%20Francesco-blueviolet)
+![Author](https://img.shields.io/badge/made%20with-%E2%9D%A4%EF%B8%8F%20by%20FranzBias-blueviolet)
 
 * (qui trovate [la traduzione in italiano](#italian) del seguente testo)
 
