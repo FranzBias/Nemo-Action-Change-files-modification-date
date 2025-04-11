@@ -1,11 +1,14 @@
 #!/bin/bash
 #
 ######################################################
-#     Change File Modification Date by FranzBias     #
+#   Change File Modification Date by FranzBias (c)   #
 #           https://github.com/FranzBias             #
 #                                                    #
 #       Allows changing the modification date        #
 #           of one or more selected files            #
+#                                                    #
+#           Licensed under the MIT License.          #
+#          See LICENSE file for full license.        #
 ######################################################
 #
 
