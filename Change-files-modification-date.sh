@@ -1,4 +1,13 @@
 #!/bin/bash
+#
+######################################################
+#     Change File Modification Date by FranzBias     #
+#           https://github.com/FranzBias             #
+#                                                    #
+#       Allows changing the modification date        #
+#           of one or more selected files            #
+######################################################
+#
 
 set -e
 
